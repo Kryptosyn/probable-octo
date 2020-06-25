@@ -1,1 +1,3 @@
-Our best thoughts came from others. Our last thoughts came from us. ca 1820-1830
+<<<<<<< HEAD
+Our best thoughts came from others. Our last thoughts came from us. ca 1800s
+>>>>>>> lincoln
